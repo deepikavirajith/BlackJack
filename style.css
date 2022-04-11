@@ -1,0 +1,41 @@
+h1 {
+  text-align: center;
+  color:white;
+}
+h2{
+  text-align:center;
+  color:white;
+}
+
+p{
+  text-align:center;
+  color:yellow;
+  font-size:1.5em;
+}
+
+input {
+  text-align: center;
+  color: black;
+  width:200px;
+  height:30px;
+  margin: 25px 150px 20px 150px;
+  border-radius: 5px;
+  font-weight: bold;
+  }
+
+button {
+  text-align: center;
+  font-size:1.2em;
+  color: darkGreen;
+  width:210px;
+  height:40px;
+  margin: 10px 150px 0px 150px;
+  border:none;
+  border-radius: 5px;
+  font-weight: bold;
+  background: yellow;
+}
+
+body{
+  background: darkgreen;
+}
